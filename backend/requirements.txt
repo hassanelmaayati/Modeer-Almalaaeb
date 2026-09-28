@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+sqlalchemy[asyncio]
+asyncpg
+psycopg2-binary
+pyjwt
+passlib
+bcrypt<4.1.0
+python-multipart
+pytest
+pytest-asyncio
+httpx
+websockets
